@@ -2,7 +2,7 @@
 
 import io
 
-from geospec import (
+from geojsonkit import (
     Feature,
     FeatureCollection,
     GeometryCollection,

@@ -1,6 +1,6 @@
 """Tests for utility functions."""
 
-from geospec import (
+from geojsonkit import (
     Feature,
     FeatureCollection,
     GeometryCollection,

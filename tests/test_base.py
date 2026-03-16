@@ -1,6 +1,6 @@
 """Tests for the GeoJSON base class."""
 
-from geospec.base import GeoJSON
+from geojsonkit.base import GeoJSON
 
 
 class TestGeoJSON:

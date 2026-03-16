@@ -1,6 +1,6 @@
 """Tests for RFC 7946 validation."""
 
-from geospec import (
+from geojsonkit import (
     Feature,
     FeatureCollection,
     GeometryCollection,
@@ -11,7 +11,7 @@ from geospec import (
     Point,
     Polygon,
 )
-from geospec.validation import errors, is_valid
+from geojsonkit.validation import errors, is_valid
 
 
 class TestIsValid:

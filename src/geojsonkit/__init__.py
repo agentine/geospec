@@ -1,4 +1,4 @@
-"""geospec — GeoJSON for Python (RFC 7946)."""
+"""geojsonkit — GeoJSON for Python (RFC 7946)."""
 
 from __future__ import annotations
 

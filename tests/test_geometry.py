@@ -2,7 +2,7 @@
 
 import pytest
 
-from geospec import (
+from geojsonkit import (
     GeometryCollection,
     LineString,
     MultiLineString,

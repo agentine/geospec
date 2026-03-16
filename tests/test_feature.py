@@ -1,6 +1,6 @@
 """Tests for Feature and FeatureCollection."""
 
-from geospec import Feature, FeatureCollection, Point
+from geojsonkit import Feature, FeatureCollection, Point
 
 
 class TestFeature:
